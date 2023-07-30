@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "outDir": "dist",
+        "moduleDetection": "force",
+        "resolveJsonModule": true,
+        "rootDir": "./"
+    },
+    "include": [
+        "**/*.ts",
+        "mock/*.json",
+    ],
+    "exclude": [
+        "./node_modules",
+        "./client"
+    ],
+    "lib": ["es2015"]
+}

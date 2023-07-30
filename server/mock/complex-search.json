@@ -1,0 +1,2507 @@
+{
+  "results": [
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 2,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 6,
+      "healthScore": 6,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 115.13,
+      "id": 637876,
+      "title": "Chicken 65",
+      "readyInMinutes": 45,
+      "servings": 6,
+      "sourceUrl": "http://www.foodista.com/recipe/G4XPLKBW/chicken-65-chicken-marinaded-in-traditional-indian-spices-and-deep-fried",
+      "image": "https://spoonacular.com/recipeImages/637876-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken 65 could be just the <b>gluten free</b> recipe you've been looking for. This hor d'oeuvre has <b>121 calories</b>, <b>19g of protein</b>, and <b>3g of fat</b> per serving. For <b>$1.15 per serving</b>, this recipe <b>covers 11%</b> of your daily requirements of vitamins and minerals. This recipe serves 6. Head to the store and pick up salt, chili powder, yogurt, and a few other things to make it today. 6 people have made this recipe and would make it again. It is brought to you by Foodista. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. Overall, this recipe earns a <b>not so spectacular spoonacular score of 39%</b>. Similar recipes are <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1243251\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1230059\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>, and <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1224321\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [
+        "gluten free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Take a large bowl mix in the ginger and garlic paste, yogurt, red chilly powder, turmeric powder, and salt.",
+              "ingredients": [
+                {
+                  "id": 2043,
+                  "name": "turmeric",
+                  "localizedName": "turmeric",
+                  "image": "turmeric.jpg"
+                },
+                {
+                  "id": 2009,
+                  "name": "chili powder",
+                  "localizedName": "chili powder",
+                  "image": "chili-powder.jpg"
+                },
+                {
+                  "id": 10111215,
+                  "name": "garlic paste",
+                  "localizedName": "garlic paste",
+                  "image": "garlic-paste.png"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 1116,
+                  "name": "yogurt",
+                  "localizedName": "yogurt",
+                  "image": "plain-yogurt.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Mix well to from smooth and thick paste, add the chicken pieces to the masala paste and  marinaded for 4 hours.",
+              "ingredients": [
+                {
+                  "id": 1005006,
+                  "name": "chicken pieces",
+                  "localizedName": "chicken pieces",
+                  "image": "chicken-parts.jpg"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 240,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Heat enough oil in a pan to deep fry the marinaded chicken pieces. Deep fry the chicken pieces in batches till crisp and golden color.Note: The taste of the Chicken 65 depends mainly on the amount of time it gets marinated in the masala, it is best to marinate the chicken pieces the day before.",
+              "ingredients": [
+                {
+                  "id": 1005006,
+                  "name": "chicken pieces",
+                  "localizedName": "chicken pieces",
+                  "image": "chicken-parts.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-65-637876"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 15,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 56,
+      "healthScore": 39,
+      "creditsText": "afrolems.com",
+      "sourceName": "afrolems.com",
+      "pricePerServing": 167.49,
+      "id": 716342,
+      "title": "Chicken Suya",
+      "readyInMinutes": 45,
+      "servings": 1,
+      "sourceUrl": "http://www.afrolems.com/2014/05/27/chicken-suya/",
+      "image": "https://spoonacular.com/recipeImages/716342-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "The recipe Chicken Suya can be made <b>in roughly 45 minutes</b>. This recipe serves 1 and costs $1.67 per serving. One serving contains <b>564 calories</b>, <b>44g of protein</b>, and <b>35g of fat</b>. This recipe from Afrolems requires suya spice, chicken, chilli powder, and seasoning cubes. It works well as a main course. 56 people have made this recipe and would make it again. It is a good option if you're following a <b>gluten free, dairy free, whole 30, and ketogenic</b> diet. Overall, this recipe earns a <b>solid spoonacular score of 79%</b>. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/suya-nigerian-chicken-skewers-113497\">Suya (Nigerian Chicken Skewers)</a>, <a href=\"https://spoonacular.com/recipes/suya-swordfish-6571\">Suya Swordfish</a>, and <a href=\"https://spoonacular.com/recipes/i-aint-chicken-chicken-crispy-roasted-chicken-breasts-with-orange-and-cardamom-1224321\">I Ain't Chicken Chicken: Crispy Roasted Chicken Breasts with Orange and Cardamom</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "whole 30",
+        "ketogenic"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Heat the oven to 500 F.Wash and season the chicken with the Suya spice, chilli powder, seasoning cubes, salt and drizzle the oil over it.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "seasoning cube",
+                  "localizedName": "seasoning cube",
+                  "image": "stock-cube.jpg"
+                },
+                {
+                  "id": 2009,
+                  "name": "chili powder",
+                  "localizedName": "chili powder",
+                  "image": "chili-powder.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 500,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Place the chicken in the oven and grill for 40 minutes. Check the chicken occasionally and flip on both sides so it can cook properly.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 40,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Serve hot garnished with the onions and tomato and a bit of suya spice sprinkled over the chicken.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-suya-716342"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 3,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 0,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 21.59,
+      "id": 638420,
+      "title": "Chicken Wings",
+      "readyInMinutes": 45,
+      "servings": 30,
+      "sourceUrl": "http://www.foodista.com/recipe/54VP6J4F/chicken-wings",
+      "image": "https://spoonacular.com/recipeImages/638420-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Wings might be just the hor d'oeuvre you are searching for. This gluten free recipe serves 30 and costs <b>22 cents per serving</b>. One serving contains <b>91 calories</b>, <b>5g of protein</b>, and <b>5g of fat</b>. 2 people found this recipe to be tasty and satisfying. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. A mixture of brown sugar, taco seasoning), coconut yogurt, and a handful of other ingredients are all it takes to make this recipe so yummy. It is an <b>inexpensive</b> recipe for fans of American food. It is brought to you by Foodista. Taking all factors into account, this recipe <b>earns a spoonacular score of 10%</b>, which is not so super. Similar recipes include <a href=\"https://spoonacular.com/recipes/spicy-thai-peanut-chicken-wings-with-raspberry-habanero-sauce-pb-j-wings-604601\">Spicy Thai Peanut Chicken Wings with Raspberry Habanero Sauce (PB&J Wings)</a>, <a href=\"https://spoonacular.com/recipes/brown-butter-old-bay-wings-aka-the-best-chicken-wings-ever-1261245\">Brown Butter Old Bay Wings (aka The Best Chicken Wings Ever!)</a>, and <a href=\"https://spoonacular.com/recipes/brown-butter-old-bay-wings-aka-the-best-chicken-wings-ever-978648\">Brown Butter Old Bay Wings (aka The Best Chicken Wings Ever!)</a>.",
+      "cuisines": [
+        "American"
+      ],
+      "dishTypes": [
+        "antipasti",
+        "starter",
+        "snack",
+        "appetizer",
+        "antipasto",
+        "hor d'oeuvre"
+      ],
+      "diets": [
+        "gluten free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "For the Chicken Wing Drummettes",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Add chicken into a large glass or stainless steel bowl, toss all the seasonings and brown sugar over the chicken.Cover with plastic wrap and refrigerate for an hour or two.Preheat the oven temperature to 400 degrees F.",
+              "ingredients": [
+                {
+                  "id": 19334,
+                  "name": "brown sugar",
+                  "localizedName": "brown sugar",
+                  "image": "dark-brown-sugar.png"
+                },
+                {
+                  "id": 1042027,
+                  "name": "seasoning",
+                  "localizedName": "seasoning",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404730,
+                  "name": "plastic wrap",
+                  "localizedName": "plastic wrap",
+                  "image": "plastic-wrap.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 400,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Place all the seasoned chicken onto a parchment lined baking sheet spread out so that they don't touch.  If you are doubling the recipe use two pans.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "spread",
+                  "localizedName": "spread",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Bake for 35 minutes.In a large bowl, add about 2 tablespoons of honey (or more if you like) and a few splashes of tabasco sauce (less or more to your liking).",
+              "ingredients": [
+                {
+                  "id": 1026168,
+                  "name": "tabasco sauce",
+                  "localizedName": "tabasco sauce",
+                  "image": "hot-sauce-or-tabasco.png"
+                },
+                {
+                  "id": 19296,
+                  "name": "honey",
+                  "localizedName": "honey",
+                  "image": "honey.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": {
+                "number": 35,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "Add the chicken, if it feels to hot to toss, wait a few minutes or use two spoons to coat the chicken.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        },
+        {
+          "name": "Serve hot or warm.To prepare \"Ranch\" Dip",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Add chive and garlic vegan cream cheese to the coconut milk yogurt in a small bowl and mix well.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "coconut milk yogurt",
+                  "localizedName": "coconut milk yogurt",
+                  "image": "plain-yogurt.jpg"
+                },
+                {
+                  "id": 93634,
+                  "name": "vegan cream cheese",
+                  "localizedName": "vegan cream cheese",
+                  "image": "cream-cheese.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11156,
+                  "name": "chives",
+                  "localizedName": "chives",
+                  "image": "fresh-chives.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Serve chilled with celery sticks and chicken wings.",
+              "ingredients": [
+                {
+                  "id": 10111143,
+                  "name": "celery rib",
+                  "localizedName": "celery sticks",
+                  "image": "celery.jpg"
+                },
+                {
+                  "id": 5100,
+                  "name": "chicken wings",
+                  "localizedName": "chicken wings",
+                  "image": "chicken-wings.png"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-wings-638420"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 31,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 13,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 241.64,
+      "id": 638308,
+      "title": "Chicken Satay",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/3SCSTC5Y/chicken-satay-by-bing",
+      "image": "https://spoonacular.com/recipeImages/638308-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Satay could be just the <b>dairy free</b> recipe you've been looking for. One serving contains <b>834 calories</b>, <b>31g of protein</b>, and <b>73g of fat</b>. This recipe serves 4 and costs $2.42 per serving. This recipe from Foodista has 1 fans. If you have turmeric powder, ground coriander, ready made satay sauce, and a few other ingredients on hand, you can make it. It works well as a rather inexpensive main course. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. With a spoonacular <b>score of 53%</b>, this dish is good. Similar recipes are <a href=\"https://spoonacular.com/recipes/chicken-satay-534568\">Chicken Satay</a>, <a href=\"https://spoonacular.com/recipes/chicken-satay-620047\">Chicken satay</a>, and <a href=\"https://spoonacular.com/recipes/chicken-satay-113570\">Chicken Satay</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Soak 20 bamboo skewers for at least 2 hours in a glass of water. This is to prevent the sticks from burning and breaking when placed under the grill or over the coals.",
+              "ingredients": [
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 3065,
+                  "name": "skewers",
+                  "localizedName": "skewers",
+                  "image": "wooden-skewers.jpg"
+                },
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                }
+              ],
+              "length": {
+                "number": 120,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 2,
+              "step": "Add the ground coriander, ground cumin, turmeric powder, chilli powder, salt, saugar, coconut cream and vegetable oil in a large bowl.",
+              "ingredients": [
+                {
+                  "id": 1002013,
+                  "name": "ground coriander",
+                  "localizedName": "ground coriander",
+                  "image": "ground-coriander.jpg"
+                },
+                {
+                  "id": 2043,
+                  "name": "turmeric",
+                  "localizedName": "turmeric",
+                  "image": "turmeric.jpg"
+                },
+                {
+                  "id": 2009,
+                  "name": "chili powder",
+                  "localizedName": "chili powder",
+                  "image": "chili-powder.jpg"
+                },
+                {
+                  "id": 12115,
+                  "name": "coconut cream",
+                  "localizedName": "coconut cream",
+                  "image": "coconut-cream.jpg"
+                },
+                {
+                  "id": 4669,
+                  "name": "vegetable oil",
+                  "localizedName": "vegetable oil",
+                  "image": "vegetable-oil.jpg"
+                },
+                {
+                  "id": 1012014,
+                  "name": "ground cumin",
+                  "localizedName": "ground cumin",
+                  "image": "ground-cumin.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Mix well.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Cut the chicken into long thin strips.Marinate the chicken in the sauce. Ensure the chicken are well coated.Tightly seal the bowl with cling wrap and place in the fridge. Leave to marinade for at least 4 hours. The longer, the better.In the meantime, prepare the sauce.Look for a reputable brand of satay sauce. I always use Lee Kum Kee.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ],
+              "length": {
+                "number": 240,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 5,
+              "step": "Add about 6 tablespoons of the satay sauce into a bowl.The rest of these steps are to be done, subject to taste. I like to taste as I add the other condiments.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Add the crunchy peanut butter, coconut cream and water. If the sauce is too thick, thin it down with a little more water.",
+              "ingredients": [
+                {
+                  "id": 16097,
+                  "name": "crunchy peanut butter",
+                  "localizedName": "crunchy peanut butter",
+                  "image": "peanut-butter.png"
+                },
+                {
+                  "id": 12115,
+                  "name": "coconut cream",
+                  "localizedName": "coconut cream",
+                  "image": "coconut-cream.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Add the dark soy sauce, sugar and ground peanuts",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "dark soy sauce",
+                  "localizedName": "dark soy sauce",
+                  "image": "soy-sauce.jpg"
+                },
+                {
+                  "id": 16091,
+                  "name": "peanuts",
+                  "localizedName": "peanuts",
+                  "image": "peanuts.png"
+                },
+                {
+                  "id": 19335,
+                  "name": "sugar",
+                  "localizedName": "sugar",
+                  "image": "sugar-in-bowl.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 8,
+              "step": "Seal the bowl with cling wrap and set aside until ready to serve. Before serving, warm the satay sauce in the microwave oven, covered slightly, for approximately 1.5 to 2mins.When you are ready to grill the chicken, start forming satays by piercing the chicken through the bamboo skewers. I find it alot easier to pierce the meat into the sticks when they are long strips and I pierce through in an undulating manner.  Set aside until ready to use.Preheat your oven to 200 deg Celsius at GRILL.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404762,
+                  "name": "microwave",
+                  "localizedName": "microwave",
+                  "image": "microwave.jpg"
+                },
+                {
+                  "id": 3065,
+                  "name": "skewers",
+                  "localizedName": "skewers",
+                  "image": "wooden-skewers.jpg"
+                },
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                },
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 2,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 9,
+              "step": "Place your oven shelf higher and closer to the top too.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 10,
+              "step": "Lay the satay sticks on a cooling mesh sitting over a flat baking sheet to collect drippings.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "Place the tray of satay under the grill. And grill for 10 to 20 mins. It really depends on how thick your chicken sticks are.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                }
+              ],
+              "length": {
+                "number": 10,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 12,
+              "step": "Remove the tray from the oven when one side of the satay is a golden brown (not dark brown!). Turn over the satay to the other side. And continue to grill till it has a nice dark golden brown. I like it a little burnt.",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404706,
+                  "name": "grill",
+                  "localizedName": "grill",
+                  "image": "grill.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "step": "Serve warm with satay sauce and sliced cucumber.",
+              "ingredients": [
+                {
+                  "id": 11206,
+                  "name": "cucumber",
+                  "localizedName": "cucumber",
+                  "image": "cucumber.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sauce",
+                  "localizedName": "sauce",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-satay-638308"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": false,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 6,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 37,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 230.34,
+      "id": 638086,
+      "title": "Chicken Fingers",
+      "readyInMinutes": 30,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/6GVTWWJ6/chicken-fingers",
+      "image": "https://spoonacular.com/recipeImages/638086-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Fingers might be just the main course you are searching for. One serving contains <b>347 calories</b>, <b>52g of protein</b>, and <b>6g of fat</b>. This recipe serves 2. For <b>$2.3 per serving</b>, this recipe <b>covers 30%</b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes approximately <b>30 minutes</b>. Only a few people made this recipe, and 1 would say it hit the spot. A mixture of cayenne pepper, water, cornflakes, and a handful of other ingredients are all it takes to make this recipe so scrumptious. It is brought to you by Foodista. With a spoonacular <b>score of 77%</b>, this dish is solid. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/chicken-fingers-1214231\">Chicken Fingers</a>, <a href=\"https://spoonacular.com/recipes/chicken-fingers-12426\">Chicken Fingers</a>, and <a href=\"https://spoonacular.com/recipes/chicken-fingers-404237\">Chicken Fingers</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Preheat oven to 400 degrees",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Line a baking sheet with parchment paper or line the bottom with foil and place a cookie rack on top and spray with cooking spray, set aside",
+              "ingredients": [
+                {
+                  "id": 4679,
+                  "name": "cooking spray",
+                  "localizedName": "cooking spray",
+                  "image": "cooking-spray.png"
+                },
+                {
+                  "id": 10118192,
+                  "name": "cookies",
+                  "localizedName": "cookies",
+                  "image": "shortbread-cookies.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404770,
+                  "name": "baking paper",
+                  "localizedName": "baking paper",
+                  "image": "baking-paper.jpg"
+                },
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                },
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "In a shallow bowl add egg whites and water",
+              "ingredients": [
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "localizedName": "egg whites",
+                  "image": "egg-white.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "In another shallow bowl add cornflakes, cheese, and seasonings, stir until combined",
+              "ingredients": [
+                {
+                  "id": 8020,
+                  "name": "corn flakes",
+                  "localizedName": "corn flakes",
+                  "image": "cornflakes.jpg"
+                },
+                {
+                  "id": 1042027,
+                  "name": "seasoning",
+                  "localizedName": "seasoning",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 1041009,
+                  "name": "cheese",
+                  "localizedName": "cheese",
+                  "image": "cheddar-cheese.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 5,
+              "step": "Cut chicken breasts horizontally and then cut into strips.Dredge the chicken in egg whites, then dip into cornflake mixture.",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 1124,
+                  "name": "egg whites",
+                  "localizedName": "egg whites",
+                  "image": "egg-white.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "dip",
+                  "localizedName": "dip",
+                  "image": ""
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Place on baking sheet. Do the same for all the chicken.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404727,
+                  "name": "baking sheet",
+                  "localizedName": "baking sheet",
+                  "image": "baking-sheet.jpg"
+                }
+              ]
+            },
+            {
+              "number": 7,
+              "step": "Bake for 18 minutes or until chicken is done.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ],
+              "length": {
+                "number": 18,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-fingers-638086"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 9,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 47,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 177,
+      "id": 638174,
+      "title": "Chicken Lo Mein",
+      "readyInMinutes": 45,
+      "servings": 2,
+      "sourceUrl": "http://www.foodista.com/recipe/R6TCPBBF/chicken-lo-mein",
+      "image": "https://spoonacular.com/recipeImages/638174-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Lo Mein is a <b>dairy free</b> recipe with 2 servings. One portion of this dish contains approximately <b>29g of protein</b>, <b>8g of fat</b>, and a total of <b>401 calories</b>. For <b>$1.77 per serving</b>, this recipe <b>covers 30%</b> of your daily requirements of vitamins and minerals. From preparation to the plate, this recipe takes around <b>45 minutes</b>. 2 people have made this recipe and would make it again. It is brought to you by Foodista. If you have chicken breast, ginger, chicken broth, and a few other ingredients on hand, you can make it. Not a lot of people really liked this main course. Overall, this recipe earns a <b>spectacular spoonacular score of 84%</b>. <a href=\"https://spoonacular.com/recipes/pancit-canton-aka-lo-mein-or-chow-mein-522418\">Pancit canton (a.k.a. lo mein or chow mein)</a>, <a href=\"https://spoonacular.com/recipes/pancit-canton-aka-lo-mein-or-chow-mein-1357539\">Pancit canton (a.k.a. lo mein or chow mein)</a>, and <a href=\"https://spoonacular.com/recipes/chicken-lo-mein-94082\">Chicken Lo Mein</a> are very similar to this recipe.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "In a large nonstick skillet, heat oil; add ginger and garlic and cook over medium heat for 1 minute.",
+              "ingredients": [
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 1,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 2,
+              "step": "Add chicken and carrot; cook over medium-high heat, stirring occasionally, until chicken is lightly browned, about 2 minutes.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11124,
+                  "name": "carrot",
+                  "localizedName": "carrot",
+                  "image": "sliced-carrot.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 2,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 3,
+              "step": "Add remaining ingredients except noodles; cook, stirring constantly, until carrot is tender-crisp, about 3 minutes.  Stir in noodles and cook until heated through, about 1 minute.",
+              "ingredients": [
+                {
+                  "id": 20420,
+                  "name": "pasta",
+                  "localizedName": "pasta",
+                  "image": "fusilli.jpg"
+                },
+                {
+                  "id": 11124,
+                  "name": "carrot",
+                  "localizedName": "carrot",
+                  "image": "sliced-carrot.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 4,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-lo-mein-638174"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 16,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 13,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 208.86,
+      "id": 638125,
+      "title": "Chicken In A Pot",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "https://www.foodista.com/recipe/4FNL5JJ8/chicken-in-a-pot",
+      "image": "https://spoonacular.com/recipeImages/638125-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken In A Pot might be just the main course you are searching for. Watching your figure? This gluten free, dairy free, paleolithic, and primal recipe has <b>595 calories</b>, <b>47g of protein</b>, and <b>41g of fat</b> per serving. This recipe serves 4. For <b>$2.09 per serving</b>, this recipe <b>covers 22%</b> of your daily requirements of vitamins and minerals. This recipe is liked by 1 foodies and cooks. Head to the store and pick up chicken, lemon juice, ground pepper, and a few other things to make it today. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. It is brought to you by Foodista. With a spoonacular <b>score of 51%</b>, this dish is good. Try <a href=\"https://spoonacular.com/recipes/healthy-chicken-pot-pie-soup-in-the-crock-pot-whole-30-dairy-free-1750627\">Healthy Chicken Pot Pie Soup in the crock pot (whole 30, dairy free)</a>, <a href=\"https://spoonacular.com/recipes/one-pot-teriyaki-rice-with-chicken-vegetables-video-instant-pot-1570513\">One Pot Teriyaki Rice with Chicken & Vegetables + Video (+Instant Pot)</a>, and <a href=\"https://spoonacular.com/recipes/one-pot-teriyaki-rice-with-chicken-vegetables-video-instant-pot-1377613\">One Pot Teriyaki Rice with Chicken & Vegetables + Video (+Instant Pot)</a> for similar recipes.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free",
+        "paleolithic",
+        "primal",
+        "whole 30",
+        "ketogenic"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Adjust oven rack to lowest position and pre- heat oven to 250 degrees",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Rinse chicken under cold water and pat dry. Season well with salt and pepper on each side",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 14412,
+                  "name": "water",
+                  "localizedName": "water",
+                  "image": "water.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Heat olive oil in large Dutch Oven (9 quarts), over medium heat. Do not allow oil to smoke",
+              "ingredients": [
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404667,
+                  "name": "dutch oven",
+                  "localizedName": "dutch oven",
+                  "image": "dutch-oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Place chicken breast side down. Cook until breast is lightly browned, about 5 minutes",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Using a wooden spoon inserted into cavity of the bird and flip chicken breast side up, add remaining ingredients except lemon juice, and cook about 6 to 8 minutes",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404732,
+                  "name": "wooden spoon",
+                  "localizedName": "wooden spoon",
+                  "image": "wooden-spoon.jpg"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Remove from heat.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Place a large aluminum sheet over the pot, place the lid on top. This is to ensure a tight seal, so that no vapors escape during the cooking process",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Transfer the Dutch Oven in your pre heated oven. Cook approximately 1:30 minutes",
+              "ingredients": [],
+              "equipment": [
+                {
+                  "id": 404667,
+                  "name": "dutch oven",
+                  "localizedName": "dutch oven",
+                  "image": "dutch-oven.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            },
+            {
+              "number": 9,
+              "step": "Removed pot from the oven and check the chicken internal temperature (must be at least 160 degrees)",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 10,
+              "step": "Remove chicken and place onto a carving board, tent with foil and allow to rest about 20 minutes",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "Strain chicken juices from the pot through a fine mesh.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404752,
+                  "name": "pot",
+                  "localizedName": "pot",
+                  "image": "stock-pot.jpg"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "step": "Place the juices into a fat separator",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 13,
+              "step": "Pour the juices into a saucepan (discard any of the fat left in the separator), add lemon juice and any juices from the carving board.  Cook approximately 5 minutes and serve!",
+              "ingredients": [
+                {
+                  "id": 9152,
+                  "name": "lemon juice",
+                  "localizedName": "lemon juice",
+                  "image": "lemon-juice.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404669,
+                  "name": "sauce pan",
+                  "localizedName": "sauce pan",
+                  "image": "sauce-pan.jpg"
+                }
+              ],
+              "length": {
+                "number": 5,
+                "unit": "minutes"
+              }
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-in-a-pot-638125"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 19,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 1,
+      "healthScore": 13,
+      "creditsText": "luismi74",
+      "license": "spoonacular's terms",
+      "sourceName": "spoonacular",
+      "pricePerServing": 275.54,
+      "id": 667707,
+      "title": "chicken marbella",
+      "author": "luismi74",
+      "readyInMinutes": 75,
+      "servings": 5,
+      "sourceUrl": "https://spoonacular.com/-1436561619005",
+      "image": "https://spoonacular.com/recipeImages/667707-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you want to add more <b>gluten free and dairy free</b> recipes to your recipe box, chicken marbella might be a recipe you should try. One serving contains <b>687 calories</b>, <b>41g of protein</b>, and <b>45g of fat</b>. This recipe serves 5 and costs $2.76 per serving. It works well as a main course. This recipe from spoonacular user <a href=\"/profile/luismi74\">luismi74</a> requires red wine vinegar, brown sugar, from 1/2 head of garlic, and prunes. From preparation to the plate, this recipe takes roughly <b>1 hour and 15 minutes</b>. If you like this recipe, take a look at these similar recipes: <a href=\"https://spoonacular.com/recipes/chicken-marbella-111508\">Chicken Marbella</a>, <a href=\"https://spoonacular.com/recipes/chicken-marbella-542252\">Chicken Marbella</a>, and <a href=\"https://spoonacular.com/recipes/chicken-marbella-697109\">Chicken Marbella</a>.",
+      "cuisines": [],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "1 In a large bowl combine garlic, oregano, salt and pepper to taste, vinegar, olive oil, prunes, olives, capers with caper juice, and bay leaves.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 2004,
+                  "name": "bay leaves",
+                  "localizedName": "bay leaves",
+                  "image": "bay-leaves.jpg"
+                },
+                {
+                  "id": 4053,
+                  "name": "olive oil",
+                  "localizedName": "olive oil",
+                  "image": "olive-oil.jpg"
+                },
+                {
+                  "id": 2027,
+                  "name": "oregano",
+                  "localizedName": "oregano",
+                  "image": "oregano.jpg"
+                },
+                {
+                  "id": 2053,
+                  "name": "vinegar",
+                  "localizedName": "vinegar",
+                  "image": "vinegar-(white).jpg"
+                },
+                {
+                  "id": 2054,
+                  "name": "capers",
+                  "localizedName": "capers",
+                  "image": "capers.jpg"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 9195,
+                  "name": "olives",
+                  "localizedName": "olives",
+                  "image": "olives-mixed.jpg"
+                },
+                {
+                  "id": 9291,
+                  "name": "prunes",
+                  "localizedName": "prunes",
+                  "image": "prunes.jpg"
+                },
+                {
+                  "id": 1019016,
+                  "name": "juice",
+                  "localizedName": "juice",
+                  "image": "apple-juice.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 2,
+              "step": "Add the chicken pieces and coat completely with the marinade. Cover and let marinate, refrigerated, several hours or overnight.2 Preheat oven to 350°F. Arrange chicken in a single layer in one or two large, shallow baking pans and spoon marinade over it evenly.",
+              "ingredients": [
+                {
+                  "id": 1005006,
+                  "name": "chicken pieces",
+                  "localizedName": "chicken pieces",
+                  "image": "chicken-parts.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "marinade",
+                  "localizedName": "marinade",
+                  "image": "seasoning.png"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404646,
+                  "name": "baking pan",
+                  "localizedName": "baking pan",
+                  "image": "roasting-pan.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg",
+                  "temperature": {
+                    "number": 350,
+                    "unit": "Fahrenheit"
+                  }
+                }
+              ]
+            },
+            {
+              "number": 3,
+              "step": "Sprinkle brown sugar over the chicken pieces and pour white wine around them.3",
+              "ingredients": [
+                {
+                  "id": 1005006,
+                  "name": "chicken pieces",
+                  "localizedName": "chicken pieces",
+                  "image": "chicken-parts.jpg"
+                },
+                {
+                  "id": 19334,
+                  "name": "brown sugar",
+                  "localizedName": "brown sugar",
+                  "image": "dark-brown-sugar.png"
+                },
+                {
+                  "id": 14106,
+                  "name": "white wine",
+                  "localizedName": "white wine",
+                  "image": "white-wine.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 4,
+              "step": "Bake for 50 minutes to 1 hour, basting frequently with the pan juices. Chicken is done when a sharp knife inserted into the thigh pieces, at their thickest point, run with clear yellow juices (not pink).4 With a slotted spoon, move the chicken, prunes, olives, and capers to a serving platter.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 2054,
+                  "name": "capers",
+                  "localizedName": "capers",
+                  "image": "capers.jpg"
+                },
+                {
+                  "id": 9195,
+                  "name": "olives",
+                  "localizedName": "olives",
+                  "image": "olives-mixed.jpg"
+                },
+                {
+                  "id": 9291,
+                  "name": "prunes",
+                  "localizedName": "prunes",
+                  "image": "prunes.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404636,
+                  "name": "slotted spoon",
+                  "localizedName": "slotted spoon",
+                  "image": "slotted-spoon.jpg"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                },
+                {
+                  "id": 404745,
+                  "name": "knife",
+                  "localizedName": "knife",
+                  "image": "chefs-knife.jpg"
+                },
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ],
+              "length": {
+                "number": 110,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 5,
+              "step": "Pour some of the pan juices over the chicken and sprinkle generously with parsley.",
+              "ingredients": [
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 6,
+              "step": "Serve remaining juices in a gravy boat.",
+              "ingredients": [
+                {
+                  "id": 6997,
+                  "name": "gravy",
+                  "localizedName": "gravy",
+                  "image": "gravy.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 405912,
+                  "name": "gravy boat",
+                  "localizedName": "gravy boat",
+                  "image": "gravy-boat.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-marbella-667707"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": true,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 10,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 19,
+      "healthScore": 26,
+      "creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+      "license": "CC BY 3.0",
+      "sourceName": "Foodista",
+      "pricePerServing": 220.13,
+      "id": 638257,
+      "title": "Chicken Porridge",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/S6FN8VYN/chicken-porridge",
+      "image": "https://spoonacular.com/recipeImages/638257-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "Chicken Porridge is a <b>gluten free and dairy free</b> recipe with 4 servings. This breakfast has <b>393 calories</b>, <b>28g of protein</b>, and <b>7g of fat</b> per serving. For <b>$2.2 per serving</b>, this recipe <b>covers 25%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 19 fans. If you have parsley, spring onion, julienne young ginger, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes roughly <b>45 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 84%</b>. This score is tremendous. <a href=\"https://spoonacular.com/recipes/chicken-porridge-1236999\">Chicken Porridge</a>, <a href=\"https://spoonacular.com/recipes/chicken-and-leek-porridge-637904\">Chicken and Leek Porridge</a>, and <a href=\"https://spoonacular.com/recipes/chicken-congee-rice-porridge-1234553\">Chicken Congee (Rice Porridge)</a> are very similar to this recipe.",
+      "cuisines": [],
+      "dishTypes": [
+        "morning meal",
+        "brunch",
+        "breakfast"
+      ],
+      "diets": [
+        "gluten free",
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Deep fry shallot till golden brown, drain oil and set aside.  Retain the oil for later use.Wash rice and add oil.",
+              "ingredients": [
+                {
+                  "id": 11677,
+                  "name": "shallot",
+                  "localizedName": "shallot",
+                  "image": "shallots.jpg"
+                },
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Mix rice and oil well.",
+              "ingredients": [
+                {
+                  "id": 20444,
+                  "name": "rice",
+                  "localizedName": "rice",
+                  "image": "uncooked-white-rice.png"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Add chicken stock, chicken breast and carrots and bring to boil.  Turn heat to low and simmer for about 1 hour.  Stir now and then.  When porridge is thicken, turn of heat and dish out the chicken breast and shred it.",
+              "ingredients": [
+                {
+                  "id": 5062,
+                  "name": "chicken breast",
+                  "localizedName": "chicken breast",
+                  "image": "chicken-breasts.png"
+                },
+                {
+                  "id": 6172,
+                  "name": "chicken stock",
+                  "localizedName": "chicken stock",
+                  "image": "chicken-broth.png"
+                },
+                {
+                  "id": 0,
+                  "name": "hot cereal",
+                  "localizedName": "hot cereal",
+                  "image": ""
+                },
+                {
+                  "id": 11124,
+                  "name": "carrot",
+                  "localizedName": "carrot",
+                  "image": "sliced-carrot.png"
+                }
+              ],
+              "equipment": [],
+              "length": {
+                "number": 60,
+                "unit": "minutes"
+              }
+            },
+            {
+              "number": 4,
+              "step": "Put the shredded chicken meat back into the porridge.  Warm it before serving and garnish with spring onion, parsley, ginger and fried shallots and a few drops of shallot's oil.",
+              "ingredients": [
+                {
+                  "id": 1005114,
+                  "name": "shredded chicken",
+                  "localizedName": "shredded chicken",
+                  "image": "rotisserie-chicken.png"
+                },
+                {
+                  "id": 11291,
+                  "name": "spring onions",
+                  "localizedName": "spring onions",
+                  "image": "spring-onions.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "hot cereal",
+                  "localizedName": "hot cereal",
+                  "image": ""
+                },
+                {
+                  "id": 11677,
+                  "name": "shallot",
+                  "localizedName": "shallot",
+                  "image": "shallots.jpg"
+                },
+                {
+                  "id": 11297,
+                  "name": "parsley",
+                  "localizedName": "parsley",
+                  "image": "parsley.jpg"
+                },
+                {
+                  "id": 11216,
+                  "name": "ginger",
+                  "localizedName": "ginger",
+                  "image": "ginger.png"
+                },
+                {
+                  "id": 1065062,
+                  "name": "meat",
+                  "localizedName": "meat",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                }
+              ],
+              "equipment": []
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-porridge-638257"
+    },
+    {
+      "vegetarian": false,
+      "vegan": false,
+      "glutenFree": false,
+      "dairyFree": true,
+      "veryHealthy": false,
+      "cheap": false,
+      "veryPopular": false,
+      "sustainable": false,
+      "lowFodmap": false,
+      "weightWatcherSmartPoints": 21,
+      "gaps": "no",
+      "preparationMinutes": -1,
+      "cookingMinutes": -1,
+      "aggregateLikes": 2,
+      "healthScore": 31,
+      "creditsText": "foodista.com",
+      "sourceName": "foodista.com",
+      "pricePerServing": 276.83,
+      "id": 637999,
+      "title": "Chicken Burritos",
+      "readyInMinutes": 45,
+      "servings": 4,
+      "sourceUrl": "http://www.foodista.com/recipe/YCKK77YK/chicken-burrito-by-bing",
+      "image": "https://spoonacular.com/recipeImages/637999-312x231.jpg",
+      "imageType": "jpg",
+      "summary": "If you have approximately <b>45 minutes</b> to spend in the kitchen, Chicken Burritos might be a tremendous <b>dairy free</b> recipe to try. This main course has <b>713 calories</b>, <b>32g of protein</b>, and <b>50g of fat</b> per serving. For <b>$2.77 per serving</b>, this recipe <b>covers 35%</b> of your daily requirements of vitamins and minerals. This recipe serves 4. 2 people were glad they tried this recipe. If you have avocadoes, onion, cilantro, and a few other ingredients on hand, you can make it. It is brought to you by Foodista. This recipe is typical of Mexican cuisine. With a spoonacular <b>score of 77%</b>, this dish is solid. Try <a href=\"https://spoonacular.com/recipes/chicken-burritos-1345431\">Chicken Burritos</a>, <a href=\"https://spoonacular.com/recipes/chicken-burritos-81171\">Chicken Burritos</a>, and <a href=\"https://spoonacular.com/recipes/chicken-burritos-1326807\">Chicken Burritos</a> for similar recipes.",
+      "cuisines": [
+        "Mexican"
+      ],
+      "dishTypes": [
+        "lunch",
+        "main course",
+        "main dish",
+        "dinner"
+      ],
+      "diets": [
+        "dairy free"
+      ],
+      "occasions": [],
+      "analyzedInstructions": [
+        {
+          "name": "",
+          "steps": [
+            {
+              "number": 1,
+              "step": "Cut the chicken thighs into one inch sized pieces.",
+              "ingredients": [
+                {
+                  "id": 5091,
+                  "name": "chicken thighs",
+                  "localizedName": "chicken thighs",
+                  "image": "chicken-thigh.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 2,
+              "step": "Add about 2 teaspoons of salt and 2 teaspoons of pepper. Or do what I always do for dishes that call for salt and pepper. I use Masterfoods Garlic Pepper. Give it a good sprinkle, about 1 tablespoon of it. Set aside to marinate for a couple of hours.Slice the top of the tomatoes off.Using a small spoon, scoop out the soft insides of the tomatoes. This reduces the moisture in the dish and prevents sogginess.Chop the tomatoes up into small bits.Chop the onions into small bits.",
+              "ingredients": [
+                {
+                  "id": 1102047,
+                  "name": "salt and pepper",
+                  "localizedName": "salt and pepper",
+                  "image": "salt-and-pepper.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11215,
+                  "name": "garlic",
+                  "localizedName": "garlic",
+                  "image": "garlic.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                },
+                {
+                  "id": 1002030,
+                  "name": "pepper",
+                  "localizedName": "pepper",
+                  "image": "pepper.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 3,
+              "step": "Place the onions and tomatoes in a large bowl.Chop up a bunch of cilantro. Use as much or as little as you like.",
+              "ingredients": [
+                {
+                  "id": 11165,
+                  "name": "cilantro",
+                  "localizedName": "cilantro",
+                  "image": "cilantro.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 4,
+              "step": "Add the cilantro to the onions-tomatoes mixture. Toss together and set aside.",
+              "ingredients": [
+                {
+                  "id": 11165,
+                  "name": "cilantro",
+                  "localizedName": "cilantro",
+                  "image": "cilantro.png"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                },
+                {
+                  "id": 11282,
+                  "name": "onion",
+                  "localizedName": "onion",
+                  "image": "brown-onion.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 5,
+              "step": "Cut a slit round an avocado, against its seed.Holding each side of the cut avocado, twist the avocado open to reveal the seed.",
+              "ingredients": [
+                {
+                  "id": 9037,
+                  "name": "avocado",
+                  "localizedName": "avocado",
+                  "image": "avocado.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 6,
+              "step": "Remove the seed and scoop out the flesh.",
+              "ingredients": [],
+              "equipment": []
+            },
+            {
+              "number": 7,
+              "step": "Place the avocado flesh in a large bowl and mash it up evenly till it becomes creamy.",
+              "ingredients": [
+                {
+                  "id": 9037,
+                  "name": "avocado",
+                  "localizedName": "avocado",
+                  "image": "avocado.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 8,
+              "step": "Add the tomatoes mixture to the avocados.",
+              "ingredients": [
+                {
+                  "id": 9037,
+                  "name": "avocado",
+                  "localizedName": "avocado",
+                  "image": "avocado.jpg"
+                },
+                {
+                  "id": 11529,
+                  "name": "tomato",
+                  "localizedName": "tomato",
+                  "image": "tomato.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 9,
+              "step": "Combine well.Squeeze in juice from one lemon.",
+              "ingredients": [
+                {
+                  "id": 1019016,
+                  "name": "juice",
+                  "localizedName": "juice",
+                  "image": "apple-juice.jpg"
+                },
+                {
+                  "id": 9150,
+                  "name": "lemon",
+                  "localizedName": "lemon",
+                  "image": "lemon.png"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 10,
+              "step": "Add a generous portion of salt to taste. About 1 to 2 teaspoons.At this point, youll have guacamole. If you like, dish it up in a serving bowl and serve it with chips.Now cook the chicken.",
+              "ingredients": [
+                {
+                  "id": 1009037,
+                  "name": "guacamole",
+                  "localizedName": "guacamole",
+                  "image": "guacamole.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 11408,
+                  "name": "french fries",
+                  "localizedName": "french fries",
+                  "image": "french-fries-isolated.jpg"
+                },
+                {
+                  "id": 2047,
+                  "name": "salt",
+                  "localizedName": "salt",
+                  "image": "salt.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404783,
+                  "name": "bowl",
+                  "localizedName": "bowl",
+                  "image": "bowl.jpg"
+                }
+              ]
+            },
+            {
+              "number": 11,
+              "step": "Heat a pan with a few tablespoons of cooking oil till its very hot. It has to be very hot or the chicken wont brown.",
+              "ingredients": [
+                {
+                  "id": 4582,
+                  "name": "cooking oil",
+                  "localizedName": "cooking oil",
+                  "image": "vegetable-oil.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 12,
+              "step": "Add the chicken to the pan. Be careful! Itll sizzle and splatter.Turn the pieces over to brown the other side after a few minutes.When the chicken are browned, remove them from the pan and set aside at a warm place.Using a clean, dry pan, toast the tortillas one at a time on each side.They are ready to be used when they are soft and warm.",
+              "ingredients": [
+                {
+                  "id": 18364,
+                  "name": "tortilla",
+                  "localizedName": "tortilla",
+                  "image": "flour-tortilla.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "sandwich bread",
+                  "localizedName": "sandwich bread",
+                  "image": "white-bread.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404645,
+                  "name": "frying pan",
+                  "localizedName": "frying pan",
+                  "image": "pan.png"
+                }
+              ]
+            },
+            {
+              "number": 13,
+              "step": "Add a serving of the guacamole mixture.",
+              "ingredients": [
+                {
+                  "id": 1009037,
+                  "name": "guacamole",
+                  "localizedName": "guacamole",
+                  "image": "guacamole.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 14,
+              "step": "Add a serving of the chicken.Quickly wrap the burrito up. If it cools, the tortilla will crack and it would be impossible to roll it up.",
+              "ingredients": [
+                {
+                  "id": 18364,
+                  "name": "tortilla",
+                  "localizedName": "tortilla",
+                  "image": "flour-tortilla.jpg"
+                },
+                {
+                  "id": 5006,
+                  "name": "whole chicken",
+                  "localizedName": "whole chicken",
+                  "image": "whole-chicken.jpg"
+                },
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                },
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 15,
+              "step": "Roll over once. Fold in the sides, and roll over again till its fully wrapped.",
+              "ingredients": [
+                {
+                  "id": 0,
+                  "name": "roll",
+                  "localizedName": "roll",
+                  "image": "dinner-yeast-rolls.jpg"
+                }
+              ],
+              "equipment": []
+            },
+            {
+              "number": 16,
+              "step": "Serve immediately or wrap in aluminum foil and keep them in the oven till ready to eat.",
+              "ingredients": [
+                {
+                  "id": 10018364,
+                  "name": "wrap",
+                  "localizedName": "wrap",
+                  "image": "flour-tortilla.jpg"
+                }
+              ],
+              "equipment": [
+                {
+                  "id": 404765,
+                  "name": "aluminum foil",
+                  "localizedName": "aluminum foil",
+                  "image": "aluminum-foil.png"
+                },
+                {
+                  "id": 404784,
+                  "name": "oven",
+                  "localizedName": "oven",
+                  "image": "oven.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "spoonacularSourceUrl": "https://spoonacular.com/chicken-burritos-637999"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 633
+}

@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "id": 716426,
+      "title": "Cauliflower, Brown Rice, and Vegetable Fried Rice",
+      "image": "https://spoonacular.com/recipeImages/716426-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 642129,
+      "title": "Easy To Make Spring Rolls",
+      "image": "https://spoonacular.com/recipeImages/642129-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 798400,
+      "title": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+      "image": "https://spoonacular.com/recipeImages/798400-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 716311,
+      "title": "Mango Fried Rice",
+      "image": "https://spoonacular.com/recipeImages/716311-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 646043,
+      "title": "Gujarati Dry Mung Bean Curry",
+      "image": "https://spoonacular.com/recipeImages/646043-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 632812,
+      "title": "Asian Chicken and Broccoli With Chili Garlic Sauce",
+      "image": "https://spoonacular.com/recipeImages/632812-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 716217,
+      "title": "Vietnamese Pancakes with Vegetables, Herbs and a Fragrant Dipping Sauce (Bánh Xèo)",
+      "image": "https://spoonacular.com/recipeImages/716217-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 644826,
+      "title": "Gluten Free Dairy Free Sugar Free Chinese Chicken Salad",
+      "image": "https://spoonacular.com/recipeImages/644826-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 716364,
+      "title": "Rice and Peas with Coconut Curry Mackerel",
+      "image": "https://spoonacular.com/recipeImages/716364-312x231.jpg",
+      "imageType": "jpg"
+    },
+    {
+      "id": 665379,
+      "title": "Winter Kimchi",
+      "image": "https://spoonacular.com/recipeImages/665379-312x231.jpg",
+      "imageType": "jpg"
+    }
+  ],
+  "offset": 0,
+  "number": 10,
+  "totalResults": 298
+}

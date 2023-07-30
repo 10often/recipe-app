@@ -1,0 +1,22 @@
+{
+  "port": 5000,
+  "baseUrl": "http://localhost:5000",
+  "edamam": "https://api.edamam.com",
+  "spoonacularKey": "2e1fbd3c272a4d068197bf72407dc807",
+  "spoonacular": "https://api.spoonacular.com/recipes",
+  "foodDatabase": {
+    "baseUrl":"/api/food-database/v2",
+    "id": "78d770ca",
+    "key": "85f44a3b96b268820d0d33de0880a1b1"
+  },
+  "recipeSearch": {
+    "baseUrl":"/api/recipes/v2",
+    "id": "d6aac31d",
+    "key": "d1ba2663bacdd0db7d7dbf407bdbbb0e"
+  },
+  "nutritionAnalysis": {
+    "baseUrl": "",
+    "id": "94622afc",
+    "key": "f93612ff806c2566ac020bc3dc7e4bb8"
+  }
+}
