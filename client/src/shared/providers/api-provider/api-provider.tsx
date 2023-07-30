@@ -7,7 +7,6 @@ import {
   QueryClient,
   QueryClientProvider,
 } from "react-query";
-import { usePopularRecipes } from "../../../entities/recipe";
 
 interface IProps {
   children: React.ReactNode;

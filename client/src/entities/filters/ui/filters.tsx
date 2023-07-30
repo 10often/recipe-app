@@ -16,12 +16,14 @@ import { useFilterListData } from "../api/filter-api";
 import { getFilledFilters } from "../lib/getFilledFilters";
 import { IAppliedFilter, IFilterList } from "../model/filter";
 import { useSearchContext } from "../../../shared/providers/search-provider";
-import { useSearchRecipes } from "../../search-input";
 
-export const Filters = () => {
+interface IProps {
+  handleSearch: () => void;
+}
+
+export const Filters = ({ handleSearch }: IProps) => {
   const {
     open: openExpand,
-    search: searchValue,
     filter: filterValue,
     setFilter: setFilterValue,
   } = useSearchContext();
@@ -29,8 +31,6 @@ export const Filters = () => {
   const [filters, setFilters] = useState<IFilterList | null>(null);
 
   const { data: filtersData } = useFilterListData();
-
-  const { mutate } = useSearchRecipes(); // todo в фичи
 
   useEffect(() => {
     if (filtersData) {
@@ -46,10 +46,6 @@ export const Filters = () => {
         [key]: e.target.value,
       } as IAppliedFilter);
     };
-
-  const handleAdvancedSearch = () => {
-    mutate({ ...getFilledFilters(filterValue), query: searchValue });
-  };
 
   return (
     <Collapse in={openExpand} className="absolute w-full top-[30px] z-[1]">
@@ -121,7 +117,7 @@ export const Filters = () => {
             },
           }}
           disabled={!getFilledFilters(filterValue)}
-          onClick={handleAdvancedSearch}
+          onClick={handleSearch}
         >
           <ArrowForward
             fontSize="small"

@@ -1,16 +1,15 @@
-import React, { ChangeEvent, KeyboardEvent } from "react";
-import { IconButton } from "@mui/material";
-import { Tune, Search } from "@mui/icons-material";
-import { useSearchRecipes } from "../api/search-api";
+import React, {ChangeEvent, KeyboardEvent} from "react";
+import { Search } from "@mui/icons-material";
 import { useSearchContext } from "../../../shared/providers/search-provider";
 import { Input } from "../../../shared/ui/input";
-import { getFilledFilters } from "../../filters"; // todo перенесется в фичу
 
-export const SearchInput = () => {
-  const { open, search, filter, setOpen, setSearch } = useSearchContext();
+interface IProps {
+  endAdornment: React.ReactNode;
+  handleSearch: () => void;
+}
 
-  // todo в фичи -->
-  const { mutate } = useSearchRecipes();
+export const SearchInput = ({ endAdornment, handleSearch }: IProps) => {
+  const { search, setSearch } = useSearchContext();
 
   const handleChangeSearch = (event: ChangeEvent<HTMLInputElement>) => {
     setSearch(event.target.value);
@@ -22,15 +21,9 @@ export const SearchInput = () => {
 
   const handleKeyPressSearch = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter" && search.length >= 3) {
-      mutate({ ...getFilledFilters(filter), query: search });
+      handleSearch();
     }
   };
-
-  const handleClickFilter = () => {
-    setOpen(!open);
-  };
-
-  // todo <-- в фичи
 
   return (
     <div className="flex flex-col relative">
@@ -43,15 +36,7 @@ export const SearchInput = () => {
           startAdornment={
             <Search className="hover:cursor-text" sx={{ color: "#b8bbbb" }} />
           }
-          endAdornment={
-            <IconButton size="small" onClick={handleClickFilter}>
-              <Tune
-                fontSize="small"
-                className="hover:cursor-pointer"
-                sx={{ color: "#fbd180" }}
-              />
-            </IconButton>
-          }
+          endAdornment={endAdornment}
         />
       </div>
     </div>
