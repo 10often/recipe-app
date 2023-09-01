@@ -70,7 +70,7 @@ export const Carousel = <T,>({
         <div
           className="
             flex items-center h-full w-30 absolute top-0 left-[-24px] 
-            bg-gradient-to-r from-pastel-gray to-transparent z-10
+            bg-gradient-to-r from-pastel-gray to-transparent z-[1]
           "
         >
           {isLeftArrow && (

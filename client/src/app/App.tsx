@@ -8,7 +8,7 @@ export const App = () => {
 
   return (
     <ApiProvider>
-      <div className="h-screen w-screen flex flex-col bg-pastel-gray font-sans">
+      <div className="h-screen w-screen bg-pastel-gray overflow-auto font-sans">
         {routes}
       </div>
     </ApiProvider>

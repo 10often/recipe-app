@@ -30,7 +30,7 @@ export const Main = () => {
   }, [asianRecipesData, europeanRecipesData, popularRecipesData]);
 
   return (
-    <div className="px-10 pb-5 flex flex-col h-full overflow-auto">
+    <div className="px-11 pb-5 flex flex-col">
       {popularRecipes.length > 0 && (
         <Carousel<IRecipe>
           items={popularRecipes}

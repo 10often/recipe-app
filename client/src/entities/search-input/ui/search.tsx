@@ -1,4 +1,4 @@
-import React, {ChangeEvent, KeyboardEvent} from "react";
+import React, { ChangeEvent, KeyboardEvent } from "react";
 import { Search } from "@mui/icons-material";
 import { useSearchContext } from "../../../shared/providers/search-provider";
 import { Input } from "../../../shared/ui/input";
