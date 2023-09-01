@@ -48,7 +48,7 @@ export const Filters = ({ handleSearch }: IProps) => {
     };
 
   return (
-    <Collapse in={openExpand} className="absolute w-full top-[30px] z-[1]">
+    <Collapse in={openExpand} className="absolute w-full top-[30px] z-[2]">
       <Paper className="bg-white rounded-b-lg flex flex-nowrap items-end p-[8px] pt-[12px]">
         {filters &&
           Object.keys(filters).map((key: string) => (

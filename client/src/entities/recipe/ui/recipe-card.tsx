@@ -15,7 +15,7 @@ interface IProps {
 
 export const RecipeCard = ({ recipe }: IProps) => {
   return (
-    <Card key={recipe.id} sx={{ minWidth: 250 }}>
+    <Card key={recipe.id} sx={{ minWidth: 250, maxWidth: 250 }}>
       <CardActionArea
         sx={{
           display: "flex",
